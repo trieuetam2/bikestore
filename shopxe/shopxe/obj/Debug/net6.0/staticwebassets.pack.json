@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\css\\admin.css",
+      "PackagePath": "staticwebassets\\Content\\admin\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Content\\admin\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\admin\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\Content\\admin\\img\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\js\\.rescache",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\.rescache"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\js\\printThis.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\printThis.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\admin\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\css\\admin.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\admin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\bg-hidden.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg-hidden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\bmw.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bmw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\ducati.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\ducati.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\empty_cart.png",
+      "PackagePath": "staticwebassets\\Content\\images\\empty_cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\honda.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\honda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\kawasaki.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\kawasaki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\momo.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\momo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\mua-xe-tang-xang.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\mua-xe-tang-xang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\post-web-kich-hoat-lien-tay-t7-2023-1400x736.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\post-web-kich-hoat-lien-tay-t7-2023-1400x736.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\search_18px.png",
+      "PackagePath": "staticwebassets\\Content\\images\\search_18px.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\shopping-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\suzuki.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\suzuki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\sym.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\sym.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\tong-hop1.png",
+      "PackagePath": "staticwebassets\\Content\\images\\tong-hop1.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\undefind.png",
+      "PackagePath": "staticwebassets\\Content\\images\\undefind.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\images\\yamaha.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\yamaha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\Content\\scripts\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\scripts\\zoomsl.min.js",
+      "PackagePath": "staticwebassets\\Content\\scripts\\zoomsl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\bmw_r1150r.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\bmw_r1150r.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\bmw_s1000rr.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\bmw_s1000rr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\ducati_ducati_848.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\ducati_ducati_848.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\honda_67.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\honda_67.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\honda_airblade_126_fi.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\honda_airblade_126_fi.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\honda_super_dream_110.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\honda_super_dream_110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\honda_supercub.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\honda_supercub.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\honda_vision_110.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\honda_vision_110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\honda_wave_100_rs.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\honda_wave_100_rs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\kawasaki_ninja1000.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\kawasaki_ninja1000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\kawasaki_z300.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\kawasaki_z300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\suzuki_raider_r150.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\suzuki_raider_r150.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\sym_angela_50.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sym_angela_50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\sym_elegant_50.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sym_elegant_50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\sym_galaxy_50.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sym_galaxy_50.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\yamaha_exciter_135.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\yamaha_exciter_135.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\yamaha_exciter_150_monster.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\yamaha_exciter_150_monster.png"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\yamaha_sirius_doi_2022.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\yamaha_sirius_doi_2022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\Content\\uploads\\yamaha_sirius_fi.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\yamaha_sirius_fi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation\\dist\\.rescache",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\.rescache"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Trieu Phan\\Downloads\\Compressed\\asp.net\\shopxe\\shopxe\\shopxe\\shopxe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.shopxe.props",
+      "PackagePath": "build\\shopxe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.shopxe.props",
+      "PackagePath": "buildMultiTargeting\\shopxe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.shopxe.props",
+      "PackagePath": "buildTransitive\\shopxe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.shopxe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
