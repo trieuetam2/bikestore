@@ -22,7 +22,7 @@
 - **Quản lý đơn hàng**
 - **Quản lý sản phẩm**
 - **Quản lý danh mục**
-- **Quản lý người dùng**
+- **Danh sách người dùng**
 - **Thêm sửa xóa sản phẩm, danh mục CRUD, Search**
 - **Thống kê doanh thu tổng quan**
 
